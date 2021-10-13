@@ -1,4 +1,4 @@
-#python scripts
+# python scripts
 
 
 ## script to print weather/date in linux terminal: python-weather.py
