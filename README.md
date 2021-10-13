@@ -1,4 +1,7 @@
-# Python weather/date script
+#python scripts
+
+
+## Python weather/date script
 A simple Python script for linux users, using Pyfiglet and openweatherapi that prints the date, time, temperature, and atmospheric pressure all in your terminal
 
 ## Usage
