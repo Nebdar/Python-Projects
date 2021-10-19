@@ -2,7 +2,7 @@
 
 
 ## script to print weather/date in linux terminal: python-weather.py
-A simple Python script for linux users, using Pyfiglet and openweatherapi that prints the date, time, temperature, and atmospheric pressure all in your terminal
+A simple Python script for linux users, using Pyfiglet and openweatherapi that prints the date, time, temperature, and atmospheric pressure in your current city upon opening your terminal with no further input required
 
 ### Usage
 first install pyfiglet for printing the ascii banner with the command `pip install pyfiglet`
